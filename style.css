@@ -131,7 +131,6 @@ header {
     #gallery {
         padding:9px;
         width: 90%;
-        margin:30px 20px;
         display: grid;
         grid-template-columns: 1fr;
         grid-gap: 10px;
